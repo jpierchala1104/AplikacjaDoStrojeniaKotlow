@@ -34,57 +34,57 @@
                 android:textSize="18sp" />
             </LinearLayout>
 
-        <LinearLayout
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:layout_weight="1">
-            <Button
-                android:id="@+id/btn_timpani2"
-                android:layout_width="@dimen/timpaniButtonDimension"
-                android:layout_height="@dimen/timpaniButtonDimension"
-                android:text="T2"
-                android:textSize="18sp" />
-        </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_weight="1">
+                <Button
+                    android:id="@+id/btn_timpani2"
+                    android:layout_width="@dimen/timpaniButtonDimension"
+                    android:layout_height="@dimen/timpaniButtonDimension"
+                    android:text="T2"
+                    android:textSize="18sp" />
+            </LinearLayout>
 
-        <LinearLayout
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:layout_weight="1">
-            <Button
-                android:id="@+id/btn_timpani3"
-                android:layout_width="@dimen/timpaniButtonDimension"
-                android:layout_height="@dimen/timpaniButtonDimension"
-                android:text="T3"
-                android:textSize="18sp" />
-        </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_weight="1">
+                <Button
+                    android:id="@+id/btn_timpani3"
+                    android:layout_width="@dimen/timpaniButtonDimension"
+                    android:layout_height="@dimen/timpaniButtonDimension"
+                    android:text="T3"
+                    android:textSize="18sp" />
+            </LinearLayout>
 
-        <LinearLayout
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:layout_weight="1">
-            <Button
-                android:id="@+id/btn_timpani4"
-                android:layout_width="@dimen/timpaniButtonDimension"
-                android:layout_height="@dimen/timpaniButtonDimension"
-                android:text="T4"
-                android:textSize="18sp" />
-        </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_weight="1">
+                <Button
+                    android:id="@+id/btn_timpani4"
+                    android:layout_width="@dimen/timpaniButtonDimension"
+                    android:layout_height="@dimen/timpaniButtonDimension"
+                    android:text="T4"
+                    android:textSize="18sp" />
+            </LinearLayout>
 
-        <LinearLayout
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:layout_weight="1">
-            <Button
-                android:id="@+id/btn_timpani5"
-                android:layout_width="@dimen/timpaniButtonDimension"
-                android:layout_height="@dimen/timpaniButtonDimension"
-                android:text="T5"
-                android:textSize="18sp" />
-        </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_weight="1">
+                <Button
+                    android:id="@+id/btn_timpani5"
+                    android:layout_width="@dimen/timpaniButtonDimension"
+                    android:layout_height="@dimen/timpaniButtonDimension"
+                    android:text="T5"
+                    android:textSize="18sp" />
+            </LinearLayout>
         </LinearLayout>
 
 <!--        <TextView-->
